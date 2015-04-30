@@ -1,1 +1,3 @@
-class 
+class hola {
+  private int manteca;
+}
