@@ -1,1 +1,3 @@
-class 
+class hola {
+  pivate int manteca;
+}
